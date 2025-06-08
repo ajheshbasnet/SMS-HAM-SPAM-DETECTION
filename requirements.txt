@@ -2,3 +2,5 @@ streamlit
 numpy 
 pandas 
 scikit-learn==1.5.1
+nltk 
+wordcloud
