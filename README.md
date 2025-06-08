@@ -38,7 +38,7 @@ The model is built using Natural Language Processing (NLP) techniques and a cust
   - Stacked Ensemble using:
     - **Extra Trees Classifier**
     - **Multinomial Naive Bayes**
-  - Combined using `sklearn`'s `StackingClassifier`
+  - Combined using sklearn's StackingClassifier
 
 ---
 
