@@ -53,7 +53,7 @@ The model is built using Natural Language Processing (NLP) techniques and a cust
 ## 📂 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/sms-spam-detector.git
+git clone https://github.com/ajheshbasnet/sms-spam-detector.git
 cd sms-spam-detector
 pip install -r requirements.txt
 streamlit run app.py
